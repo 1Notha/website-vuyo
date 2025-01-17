@@ -1,6 +1,6 @@
 :root {
     --primary: #fff;
-    --bg-color: rgb(5, 53, 61);
+    --bg-color: #b0a0d2; /* Light purple similar to iris flowers */
     --bg-envelope-color: #f5edd1;
     --envelope-tab: #ecdeb8;
     --envelope-cover: #e6cfa7;
@@ -13,7 +13,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: var(--bg-color);
+    background: var(--bg-color); /* Updated background color */
     display: flex;
     align-items: center;
     justify-content: center;
